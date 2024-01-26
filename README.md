@@ -8,8 +8,6 @@
 1. `Unsplash API` : To update the backdrop images dynamically based on what the weather description of the city is.
 2. `OpenWeather API` : To fetch all the details regarding weather and other meteorological phenomenon.
 
-I have tried to use maximum CSS to improve the aesthetic of this Project.
-
 
 ### Preview of the website 
 
